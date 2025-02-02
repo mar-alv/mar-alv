@@ -1,5 +1,5 @@
 ### 👋 Hey, I am Marcelo
-- 💻 Working as a Front-End Engineer for **Vivo** and **Terra**'s Smart Checkout team via **CWI Software**
+- 💻 Working as a Front-End Engineer for **Hypera** Neo-Quimicals Catalog team via **CWI Software**
 - 🛒 Acting before with Brazil's largest e-commerces, **Casas Bahia**, **Extra** and **Ponto Frio**, delivering millions 💰 features
 - 🎓 Pursuing an **Analysis and Development of Systems** degree at **Unisinos**
 - 🧠 Collecting idioms, with 🇬🇧 out of the way, 🇮🇹 you are the next 🫵
